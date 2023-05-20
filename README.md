@@ -24,7 +24,7 @@ ENPM673 - Perception for Autonomous Robots --------- Final Project
 - Download the Codes Folder
 - Open the Codes Folder in a VS Code workspace
 - Open $Obstacle Detection.ipynb$ and run the cells accordingly
-- Use the $final\_weight.pt$ file to run our model
+- Use the final_weight.pt file to run our model
 - Run the codes in Codes/PI in Raspberry PI
 
 ``

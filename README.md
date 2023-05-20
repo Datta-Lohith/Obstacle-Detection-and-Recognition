@@ -2,6 +2,33 @@
 ENPM673 - Perception for Autonomous Robots --------- Final Project
 
 ## Contents
-- Code(folder)
-    - final_project_group31.py
+- Codes(folder)
+    - PI(Folder)
+        -Utils(Folder)
+        - Stream_Obstacle_Avoidance.py
+    - Obstacle Detection.ipynb
+    - final_weight.pt
 - Datasets(Folder)
+
+## Dependencies
+- Microsoft VS Code
+- Libraries
+    - import roboflow
+    - import cvzone
+    - from ultralytics import YOLO
+    - import cv2
+    - import PiCamera
+
+
+## How to run the code
+- Download the Codes Folder
+- Open the Codes Folder in a VS Code workspace
+- Open $Obstacle Detection.ipynb$ and run the cells accordingly
+- Use the $final\_weight.pt$ file to run our model
+
+``
+ *** Note ***
+The Datasets folder contains sample amount of Dataset images due to upload limitation. Refer to $Obstacle Detection.ipynb$ for downloading the Dataset.
+
+``
+

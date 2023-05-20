@@ -4,7 +4,7 @@ ENPM673 - Perception for Autonomous Robots --------- Final Project
 ## Contents
 - Codes(folder)
     - PI(Folder)
-        -Utils(Folder)
+        - Utils(Folder)
         - Stream_Obstacle_Avoidance.py
     - Obstacle Detection.ipynb
     - final_weight.pt

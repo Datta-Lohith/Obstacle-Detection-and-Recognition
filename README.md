@@ -29,6 +29,5 @@ ENPM673 - Perception for Autonomous Robots --------- Final Project
 ``
  *** Note ***
 The Datasets folder contains sample amount of Dataset images due to upload limitation. Refer to $Obstacle Detection.ipynb$ for downloading the Dataset.
-
 ``
 

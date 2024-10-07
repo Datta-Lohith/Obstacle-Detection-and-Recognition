@@ -34,7 +34,6 @@
 ## Demonstration
 ![](https://github.com/vishnumandala/Obstacle-Detection-and-Recognition-System-using-Customized-YOLO-Algorithm-for-a-Mobile-Robot/blob/main/Demonstration.gif)
 
-``
 ### Note
 The Datasets folder contains sample dataset images due to upload limitation. Refer to $Obstacle Detection.ipynb$ to download the full dataset.
 
